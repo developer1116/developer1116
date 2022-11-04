@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p>
   풀스텍 개발자를 꿈꾸며 공부하고 있는 개발자입니다.
   </br>
-  노력과 배움을 즐기며 용진하겠습니다
+  노력과 배움을 즐기며 용진하겠습니다.
 </p>
 
 <p>
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-F24E1E?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=Figma&logoColor=white"/>
 </div>
