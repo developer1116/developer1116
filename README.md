@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 </p>
 
 </br>
-<h2>🚀 Stack</h2>
+<p style="font-size: 26px;">🚀 Stack</p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
