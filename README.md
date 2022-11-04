@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p style="font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";">
+<p>
   풀스텍 개발자를 꿈꾸며 공부하고 있는 개발자입니다.
   </br>
   노력과 배움을 즐기며 용진하겠습니다
