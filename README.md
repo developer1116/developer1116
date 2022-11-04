@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>풀스텍 개발자를 꿈꾸며 공부하고 있는 개발자입니다.</p><p>노력과 배움을 즐기며 용진하겠습니다.</p>
+<p>
+  풀스텍 개발자를 꿈꾸며 공부하고 있는 개발자입니다.</br>
+  노력과 배움을 즐기며 용진하겠습니다
+</p>
 </br>
 <p>I'm Developer who dreams of becoming a full-stack developer.</p>
 <p>I'll move forward enjoying the effort and learning.</p>
