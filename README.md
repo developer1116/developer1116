@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <p>풀스텍 개발자를 꿈꾸며 공부하고 있는 개발자입니다.</p>
-</br>
 <p>노력과 배움을 즐기며 용진하겠습니다.</p>
 </br>
-</br>
 <p>I'm Developer who dreams of becoming a full-stack developer.</p>
-</br>
 <p>I'll move forward enjoying the effort and learning.</p>
+</br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
